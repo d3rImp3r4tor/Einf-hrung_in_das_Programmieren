@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix Transponieren", "Mat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Klausurvorbereitung", "Klausurvorbereitung\Klausurvorbereitung.vcxproj", "{2BE0C00A-489E-448B-83FB-D3016E4AD916}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Einheitsmatrix", "Einheitsmatrix\Einheitsmatrix.vcxproj", "{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sehschlange_Aufgabe_2", "Sehschlange_Aufgabe_2\Sehschlange_Aufgabe_2.vcxproj", "{2EB01A67-ECE6-4200-84EA-A898E1290CF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +115,22 @@ Global
 		{2BE0C00A-489E-448B-83FB-D3016E4AD916}.Release|x64.Build.0 = Release|x64
 		{2BE0C00A-489E-448B-83FB-D3016E4AD916}.Release|x86.ActiveCfg = Release|Win32
 		{2BE0C00A-489E-448B-83FB-D3016E4AD916}.Release|x86.Build.0 = Release|Win32
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Debug|x64.ActiveCfg = Debug|x64
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Debug|x64.Build.0 = Debug|x64
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Debug|x86.Build.0 = Debug|Win32
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Release|x64.ActiveCfg = Release|x64
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Release|x64.Build.0 = Release|x64
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Release|x86.ActiveCfg = Release|Win32
+		{01D1DC15-1CD8-4DA2-95E4-918ED69892B8}.Release|x86.Build.0 = Release|Win32
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Debug|x64.ActiveCfg = Debug|x64
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Debug|x64.Build.0 = Debug|x64
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Debug|x86.Build.0 = Debug|Win32
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Release|x64.ActiveCfg = Release|x64
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Release|x64.Build.0 = Release|x64
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Release|x86.ActiveCfg = Release|Win32
+		{2EB01A67-ECE6-4200-84EA-A898E1290CF5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
